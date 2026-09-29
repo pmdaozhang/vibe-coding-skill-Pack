@@ -7,3 +7,6 @@ audio_type/
 !.templates/**
 !AGENTS.md
 !.gitignore
+!README.md
+!setup/
+!setup/**

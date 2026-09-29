@@ -1,0 +1,4 @@
+﻿# 以下内容追加到 ~/.codex/config.toml（如果 [features] 段已存在则只在段内加 multi_agent = true）
+
+[features]
+multi_agent = true
