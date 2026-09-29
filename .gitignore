@@ -1,0 +1,9 @@
+﻿# workspace files only - sub-projects have their own git repos
+audio_type/
+*/
+!.codex/
+!.codex/**
+!.templates/
+!.templates/**
+!AGENTS.md
+!.gitignore
